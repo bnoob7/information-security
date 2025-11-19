@@ -1,7 +1,7 @@
 // User database
 const userDatabase = {
     "santoshi": "kc",
-    "user2": "suzie",
+    "binod": "messi",
     // Add more users here
 };
 

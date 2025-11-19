@@ -1,6 +1,6 @@
 // User database
 const userDatabase = {
-    "santoshi": "test",
+    "binod": "messi",
     "user2": "securepass",
     // Add more users here
 };
